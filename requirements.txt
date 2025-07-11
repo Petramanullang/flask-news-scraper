@@ -1,3 +1,8 @@
-flask
-requests
-beautifulsoup4
+Flask==3.0.3
+beautifulsoup4==4.12.3
+requests==2.32.3
+Werkzeug==3.0.6
+Jinja2==3.1.4
+itsdangerous==2.2.0
+blinker==1.8.2
+soupsieve==2.6
